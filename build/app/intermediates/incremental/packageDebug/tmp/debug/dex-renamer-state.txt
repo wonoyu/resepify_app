@@ -1,0 +1,4 @@
+#Sun Sep 04 22:11:40 WIB 2022
+base.0=/home/ahmad/Work/side-projects/resepify_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
